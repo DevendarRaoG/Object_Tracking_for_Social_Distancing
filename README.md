@@ -13,6 +13,8 @@ The only way to prevent the spread of COVID-19 is Social Distancing. Keeping a s
 So i wanted to develop a social distancing tool which can effectively detect distance between people and alert.This can be used by governments to analyze the movement of people and alert them if the situation turns serious.
 
 # Below are the steps involved in developing a tool for object detection and using for social distancing.
+I have used google colab for this project and my google drive to stage the files.
+Sample Video for working: https://drive.google.com/file/d/1N_nJRs7gStNrfB1G9y2yPs5voe4Ip4On/view?usp=sharing
 # Steps:
 1. Install Dependencies : Pytorch, Detectron 2
 2. Import libraries
