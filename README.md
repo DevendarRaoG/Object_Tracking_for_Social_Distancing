@@ -1,12 +1,12 @@
 # Object_Tracking_for_Social_Distancing
 In this project I've built a Social Distancing Detection Tool using Deep Learning Skills and leveraged Detectron 2 – FAIR library for Object Detection and Segmentation  from FacebookAI
 
-#Overview
+# Overview
 Build Social Distancing Tool using your Deep Learning and Computer Vision 
 Learn how the State-of-the-Art architectures (SOTA) works for Object Detection
 Hands-on with Detectron 2 – FAIR library for Object Detection and Segmentation – required to build the social distancing tool
 
-#Introduction:
+# Introduction:
 The biggest cause of concern is that COVID-19 spreads from person to person through contact or if you’re within close proximity of an infected person. Given how densely populated some areas are, this has been quite a challenge.
 The only way to prevent the spread of COVID-19 is Social Distancing. Keeping a safe distance from each other is the ultimate way to prevent the spread of this disease (at least until a vaccine is found).
 
